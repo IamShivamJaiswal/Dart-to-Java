@@ -47,7 +47,7 @@ public class PostFile {
 
 	  String fileName = "C://Users//Shivam//Desktop//name.PNG";
 	  String result = POST(fileName);
-      System.out.println(result);
+          System.out.println(result);
       
   }
 }
